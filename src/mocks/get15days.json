@@ -1,0 +1,764 @@
+{
+  "id": 3477,
+  "name": "São Paulo",
+  "state": "SP",
+  "country": "BR  ",
+  "data": [
+    {
+      "date": "2018-11-20",
+      "date_br": "20/11/2018",
+      "humidity": {
+        "min": 88,
+        "max": 98,
+        "dawn": {
+          "min": 95,
+          "max": 98
+        },
+        "morning": {
+          "min": 91,
+          "max": 95
+        },
+        "afternoon": {
+          "min": 88,
+          "max": 93
+        },
+        "night": {
+          "min": 94,
+          "max": 96
+        }
+      },
+      "rain": {
+        "probability": 40,
+        "precipitation": 2
+      },
+      "wind": {
+        "velocity_min": 19,
+        "velocity_max": 25,
+        "velocity_avg": 22,
+        "gust_max": 36,
+        "direction_degrees": 129,
+        "direction": "ESE",
+        "dawn": {
+          "direction": "ESE",
+          "direction_degrees": 126,
+          "gust_max": 37,
+          "velocity_max": 22
+        },
+        "morning": {
+          "direction": "ESE",
+          "direction_degrees": 131,
+          "gust_max": 36,
+          "velocity_max": 22
+        },
+        "afternoon": {
+          "direction": "ESE",
+          "direction_degrees": 132,
+          "gust_max": 33,
+          "velocity_max": 25
+        },
+        "night": {
+          "direction": "ESE",
+          "direction_degrees": 125,
+          "gust_max": 35,
+          "velocity_max": 23
+        }
+      },
+      "uv": {
+        "max": 2
+      },
+      "thermal_sensation": {
+        "min": 14,
+        "max": 21
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "3n",
+          "morning": "3",
+          "afternoon": "3",
+          "night": "3n",
+          "day": "3"
+        },
+        "text": {
+          "pt": "Nublado",
+          "en": "Cloudy.",
+          "es": "Cielo nublado de día y de noche. Posibilidad de llovizna.",
+          "phrase": {
+            "reduced": "Céu nublado com possibilidade de garoa de dia e à noite.",
+            "morning": "Nublado",
+            "afternoon": "Nublado",
+            "night": "Nublado com possibilidade de chuviscos",
+            "dawn": "Nublado com possibilidade de chuviscos"
+          }
+        }
+      },
+      "temperature": {
+        "min": 14,
+        "max": 21,
+        "dawn": {
+          "min": 14,
+          "max": 15
+        },
+        "morning": {
+          "min": 14,
+          "max": 15
+        },
+        "afternoon": {
+          "min": 15,
+          "max": 21
+        },
+        "night": {
+          "min": 15,
+          "max": 17
+        }
+      }
+    },
+    {
+      "date": "2018-11-21",
+      "date_br": "21/11/2018",
+      "humidity": {
+        "min": 88,
+        "max": 96,
+        "dawn": {
+          "min": 95,
+          "max": 95
+        },
+        "morning": {
+          "min": 91,
+          "max": 95
+        },
+        "afternoon": {
+          "min": 88,
+          "max": 93
+        },
+        "night": {
+          "min": 93,
+          "max": 97
+        }
+      },
+      "rain": {
+        "probability": 40,
+        "precipitation": 2
+      },
+      "wind": {
+        "velocity_min": 19,
+        "velocity_max": 24,
+        "velocity_avg": 21,
+        "gust_max": 36,
+        "direction_degrees": 121,
+        "direction": "ESE",
+        "dawn": {
+          "direction": "ESE",
+          "direction_degrees": 118,
+          "gust_max": 36,
+          "velocity_max": 22
+        },
+        "morning": {
+          "direction": "ESE",
+          "direction_degrees": 122,
+          "gust_max": 34,
+          "velocity_max": 21
+        },
+        "afternoon": {
+          "direction": "ESE",
+          "direction_degrees": 123,
+          "gust_max": 29,
+          "velocity_max": 24
+        },
+        "night": {
+          "direction": "ESE",
+          "direction_degrees": 120,
+          "gust_max": 34,
+          "velocity_max": 24
+        }
+      },
+      "uv": {
+        "max": 9
+      },
+      "thermal_sensation": {
+        "min": 15,
+        "max": 22
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "3n",
+          "morning": "3",
+          "afternoon": "2r",
+          "night": "3n",
+          "day": "3"
+        },
+        "text": {
+          "pt": "Nublado",
+          "en": "Cloudy.",
+          "es": "Cielo nublado de día y de noche. Posibilidad de llovizna.",
+          "phrase": {
+            "reduced": "Nublado com aberturas de sol à  tarde. Pode garoar de manhã e à noite.",
+            "morning": "Nublado",
+            "afternoon": "Sol com muitas nuvens",
+            "night": "Nublado com possibilidade de chuviscos",
+            "dawn": "Nublado com possibilidade de chuviscos"
+          }
+        }
+      },
+      "temperature": {
+        "min": 15,
+        "max": 22,
+        "dawn": {
+          "min": 15,
+          "max": 17
+        },
+        "morning": {
+          "min": 15,
+          "max": 17
+        },
+        "afternoon": {
+          "min": 19,
+          "max": 22
+        },
+        "night": {
+          "min": 21,
+          "max": 21
+        }
+      }
+    },
+    {
+      "date": "2018-11-22",
+      "date_br": "22/11/2018",
+      "humidity": {
+        "min": 56,
+        "max": 100,
+        "dawn": {
+          "min": 95,
+          "max": 99
+        },
+        "morning": {
+          "min": 75,
+          "max": 100
+        },
+        "afternoon": {
+          "min": 56,
+          "max": 82
+        },
+        "night": {
+          "min": 81,
+          "max": 92
+        }
+      },
+      "rain": {
+        "probability": 80,
+        "precipitation": 8
+      },
+      "wind": {
+        "velocity_min": 5,
+        "velocity_max": 19,
+        "velocity_avg": 13,
+        "gust_max": 35,
+        "direction_degrees": 70,
+        "direction": "ENE",
+        "dawn": {
+          "direction": "E",
+          "direction_degrees": 94,
+          "gust_max": 36,
+          "velocity_max": 19
+        },
+        "morning": {
+          "direction": "ENE",
+          "direction_degrees": 69,
+          "gust_max": 33,
+          "velocity_max": 13
+        },
+        "afternoon": {
+          "direction": "N",
+          "direction_degrees": 8,
+          "gust_max": 34,
+          "velocity_max": 17
+        },
+        "night": {
+          "direction": "ESE",
+          "direction_degrees": 99,
+          "gust_max": 24,
+          "velocity_max": 16
+        }
+      },
+      "uv": {
+        "max": 10
+      },
+      "thermal_sensation": {
+        "min": 17,
+        "max": 29
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "2rn",
+          "morning": "2r",
+          "afternoon": "4t",
+          "night": "4tn",
+          "day": "4t"
+        },
+        "text": {
+          "pt": "Sol, pancadas de chuva e trovoadas.",
+          "en": null,
+          "es": null,
+          "phrase": {
+            "reduced": "Sol com muitas nuvens. Pancadas de chuva à tarde e à noite.",
+            "morning": "Sol com muitas nuvens",
+            "afternoon": "Sol, pancadas de chuva e trovoadas.",
+            "night": "Muitas nuvens, chuva e raios",
+            "dawn": "Muitas nuvens"
+          }
+        }
+      },
+      "temperature": {
+        "min": 17,
+        "max": 27,
+        "dawn": {
+          "min": 17,
+          "max": 17
+        },
+        "morning": {
+          "min": 17,
+          "max": 20
+        },
+        "afternoon": {
+          "min": 23,
+          "max": 27
+        },
+        "night": {
+          "min": 22,
+          "max": 23
+        }
+      }
+    },
+    {
+      "date": "2018-11-23",
+      "date_br": "23/11/2018",
+      "humidity": {
+        "min": 45,
+        "max": 93,
+        "dawn": {
+          "min": 90,
+          "max": 93
+        },
+        "morning": {
+          "min": 60,
+          "max": 92
+        },
+        "afternoon": {
+          "min": 45,
+          "max": 57
+        },
+        "night": {
+          "min": 46,
+          "max": 83
+        }
+      },
+      "rain": {
+        "probability": 80,
+        "precipitation": 6
+      },
+      "wind": {
+        "velocity_min": 9,
+        "velocity_max": 21,
+        "velocity_avg": 15,
+        "gust_max": 49,
+        "direction_degrees": 349,
+        "direction": "NNW",
+        "dawn": {
+          "direction": "N",
+          "direction_degrees": 14,
+          "gust_max": 43,
+          "velocity_max": 15
+        },
+        "morning": {
+          "direction": "NNW",
+          "direction_degrees": 338,
+          "gust_max": 49,
+          "velocity_max": 20
+        },
+        "afternoon": {
+          "direction": "NW",
+          "direction_degrees": 327,
+          "gust_max": 29,
+          "velocity_max": 21
+        },
+        "night": {
+          "direction": "NNW",
+          "direction_degrees": 25,
+          "gust_max": 20,
+          "velocity_max": 14
+        }
+      },
+      "uv": {
+        "max": 10
+      },
+      "thermal_sensation": {
+        "min": 17,
+        "max": 30
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "2n",
+          "morning": "2",
+          "afternoon": "4t",
+          "night": "4tn",
+          "day": "4t"
+        },
+        "text": {
+          "pt": "Sol, pancadas de chuva e trovoadas.",
+          "en": null,
+          "es": null,
+          "phrase": {
+            "reduced": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.",
+            "morning": "Sol com algumas nuvens",
+            "afternoon": "Sol, pancadas de chuva e trovoadas.",
+            "night": "Muitas nuvens, chuva e raios",
+            "dawn": "Algumas nuvens"
+          }
+        }
+      },
+      "temperature": {
+        "min": 17,
+        "max": 29,
+        "dawn": {
+          "min": 17,
+          "max": 20
+        },
+        "morning": {
+          "min": 17,
+          "max": 21
+        },
+        "afternoon": {
+          "min": 24,
+          "max": 29
+        },
+        "night": {
+          "min": 23,
+          "max": 27
+        }
+      }
+    },
+    {
+      "date": "2018-11-24",
+      "date_br": "24/11/2018",
+      "humidity": {
+        "min": 49,
+        "max": 95,
+        "dawn": {
+          "min": 90,
+          "max": 95
+        },
+        "morning": {
+          "min": 59,
+          "max": 88
+        },
+        "afternoon": {
+          "min": 49,
+          "max": 55
+        },
+        "night": {
+          "min": 52,
+          "max": 72
+        }
+      },
+      "rain": {
+        "probability": 80,
+        "precipitation": 10
+      },
+      "wind": {
+        "velocity_min": 6,
+        "velocity_max": 28,
+        "velocity_avg": 16,
+        "gust_max": 58,
+        "direction_degrees": 348,
+        "direction": "NNW",
+        "dawn": {
+          "direction": "NW",
+          "direction_degrees": 345,
+          "gust_max": 16,
+          "velocity_max": 10
+        },
+        "morning": {
+          "direction": "N",
+          "direction_degrees": 3,
+          "gust_max": 58,
+          "velocity_max": 28
+        },
+        "afternoon": {
+          "direction": "NNW",
+          "direction_degrees": 343,
+          "gust_max": 41,
+          "velocity_max": 28
+        },
+        "night": {
+          "direction": "NW",
+          "direction_degrees": 333,
+          "gust_max": 22,
+          "velocity_max": 20
+        }
+      },
+      "uv": {
+        "max": 11
+      },
+      "thermal_sensation": {
+        "min": 19,
+        "max": 28
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "2n",
+          "morning": "2",
+          "afternoon": "4t",
+          "night": "4tn",
+          "day": "4t"
+        },
+        "text": {
+          "pt": "Sol, pancadas de chuva e trovoadas.",
+          "en": null,
+          "es": null,
+          "phrase": {
+            "reduced": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.",
+            "morning": "Sol com algumas nuvens",
+            "afternoon": "Sol, pancadas de chuva e trovoadas.",
+            "night": "Muitas nuvens, chuva e raios",
+            "dawn": "Algumas nuvens"
+          }
+        }
+      },
+      "temperature": {
+        "min": 19,
+        "max": 28,
+        "dawn": {
+          "min": 20,
+          "max": 22
+        },
+        "morning": {
+          "min": 19,
+          "max": 23
+        },
+        "afternoon": {
+          "min": 24,
+          "max": 28
+        },
+        "night": {
+          "min": 25,
+          "max": 27
+        }
+      }
+    },
+    {
+      "date": "2018-11-25",
+      "date_br": "25/11/2018",
+      "humidity": {
+        "min": 50,
+        "max": 95,
+        "dawn": {
+          "min": 68,
+          "max": 75
+        },
+        "morning": {
+          "min": 60,
+          "max": 79
+        },
+        "afternoon": {
+          "min": 50,
+          "max": 86
+        },
+        "night": {
+          "min": 94,
+          "max": 96
+        }
+      },
+      "rain": {
+        "probability": 90,
+        "precipitation": 60
+      },
+      "wind": {
+        "velocity_min": 5,
+        "velocity_max": 23,
+        "velocity_avg": 16,
+        "gust_max": 55,
+        "direction_degrees": 10,
+        "direction": "N",
+        "dawn": {
+          "direction": "N",
+          "direction_degrees": 7,
+          "gust_max": 37,
+          "velocity_max": 17
+        },
+        "morning": {
+          "direction": "NNW",
+          "direction_degrees": 350,
+          "gust_max": 55,
+          "velocity_max": 23
+        },
+        "afternoon": {
+          "direction": "NNW",
+          "direction_degrees": 339,
+          "gust_max": 32,
+          "velocity_max": 23
+        },
+        "night": {
+          "direction": "SE",
+          "direction_degrees": 131,
+          "gust_max": 35,
+          "velocity_max": 23
+        }
+      },
+      "uv": {
+        "max": 2
+      },
+      "thermal_sensation": {
+        "min": 18,
+        "max": 24
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "6n",
+          "morning": "6",
+          "afternoon": "6",
+          "night": "6n",
+          "day": "6"
+        },
+        "text": {
+          "pt": "Chuva e trovoadas",
+          "en": "Rain and thunder.",
+          "es": "Lluvia y tormentas.",
+          "phrase": {
+            "reduced": "Tempo severo,com chuva forte e trovoada de manhã, à tarde e à noite.",
+            "morning": "Chuva e trovoadas",
+            "afternoon": "Chuva e trovoadas",
+            "night": "Chuvoso com tempestades",
+            "dawn": "Chuvoso com tempestades"
+          }
+        }
+      },
+      "temperature": {
+        "min": 18,
+        "max": 24,
+        "dawn": {
+          "min": 22,
+          "max": 24
+        },
+        "morning": {
+          "min": 20,
+          "max": 22
+        },
+        "afternoon": {
+          "min": 20,
+          "max": 24
+        },
+        "night": {
+          "min": 18,
+          "max": 19
+        }
+      }
+    },
+    {
+      "date": "2018-11-26",
+      "date_br": "26/11/2018",
+      "humidity": {
+        "min": 94,
+        "max": 98,
+        "dawn": {
+          "min": 94,
+          "max": 96
+        },
+        "morning": {
+          "min": 95,
+          "max": 98
+        },
+        "afternoon": {
+          "min": 95,
+          "max": 98
+        },
+        "night": {
+          "min": 94,
+          "max": 97
+        }
+      },
+      "rain": {
+        "probability": 60,
+        "precipitation": 80
+      },
+      "wind": {
+        "velocity_min": 14,
+        "velocity_max": 32,
+        "velocity_avg": 21,
+        "gust_max": 54,
+        "direction_degrees": 99,
+        "direction": "E",
+        "dawn": {
+          "direction": "ESE",
+          "direction_degrees": 93,
+          "gust_max": 34,
+          "velocity_max": 22
+        },
+        "morning": {
+          "direction": "E",
+          "direction_degrees": 90,
+          "gust_max": 38,
+          "velocity_max": 22
+        },
+        "afternoon": {
+          "direction": "E",
+          "direction_degrees": 112,
+          "gust_max": 46,
+          "velocity_max": 25
+        },
+        "night": {
+          "direction": "E",
+          "direction_degrees": 98,
+          "gust_max": 54,
+          "velocity_max": 32
+        }
+      },
+      "uv": {
+        "max": 10
+      },
+      "thermal_sensation": {
+        "min": 18,
+        "max": 20
+      },
+      "text_icon": {
+        "icon": {
+          "dawn": "4n",
+          "morning": "4",
+          "afternoon": "4",
+          "night": "4n",
+          "day": "4"
+        },
+        "text": {
+          "pt": "Sol e Chuva",
+          "en": "Sun and rain.",
+          "es": "Sol y aumento de nubes. Chubascos aislados en la tarde y en la noche.",
+          "phrase": {
+            "reduced": "Sol com algumas nuvens. Chove rápido durante o dia e à noite.",
+            "morning": "Sol e Chuva",
+            "afternoon": "Sol e Chuva",
+            "night": "Algumas nuvens e chuva",
+            "dawn": "Algumas nuvens e chuva"
+          }
+        }
+      },
+      "temperature": {
+        "min": 18,
+        "max": 20,
+        "dawn": {
+          "min": 19,
+          "max": 20
+        },
+        "morning": {
+          "min": 19,
+          "max": 20
+        },
+        "afternoon": {
+          "min": 19,
+          "max": 19
+        },
+        "night": {
+          "min": 18,
+          "max": 19
+        }
+      }
+    }
+  ]
+}

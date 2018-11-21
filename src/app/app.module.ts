@@ -11,6 +11,14 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
+// ksodesign
+import { HttpModule } from '@angular/http';
+import 'rxjs/add/operator/map';
+
+
+
+
+
 @NgModule({
   declarations: [
     MyApp,
@@ -37,4 +45,24 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
-export class AppModule {}
+export class AppModule {
+  /* const climatempoToken = '5351ff36b37d290ac5f4f2e7ac5d7800';
+  private API_URL = 'http://apiadvisor.climatempo.com.br/api/v1/forecast/locale/3477/days/15?token='+climatempoToken;
+
+ constructor(public http: HttpModule) { }
+
+  getClima() {
+    return new Promise((resolve, reject) => {
+
+      this.http.get(this.API_URL)
+        .subscribe((result: any) => {
+            resolve(result.json());
+          },
+          (error) => {
+            reject(error.json());
+          });
+
+
+    });
+  }*/
+}
